@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sekurisukumar
-- 👀 I’m interested in test infrastructure development (CI/CD), test automation and tools development
+- 👀 I’m interested in test infrastructure development (CI/CD), test automation, automation frameworks and tools development
 - 🌱 I’m currently learning distributed systems, data structures & algorithms, advanced python concepts
-- 💞️ I’m looking to collaborate on app development, tools development
+- 💞️ I’m looking to collaborate on app development, automation frameworks and tools development
 - 📫 How to reach me sekurisukumar@gmail.com
 
 <!---
